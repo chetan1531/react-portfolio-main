@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Blogging Application Backend",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Spring Boot", "JPA", "Spring Security","MYSQL","Spring Auth"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/chetan1531/Blogging-application-React-frontend"
+  },
+  {
+    "title": "Blogging Application Frontend",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Reactjs", "Javascript", "Node","HTML","Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

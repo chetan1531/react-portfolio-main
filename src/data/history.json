@@ -1,0 +1,32 @@
+[
+  {
+    "role": "System Engineer",
+    "organisation": "infosys",
+    "startDate": "Nov, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Various project", "Reduced load times by 50%"],
+    "imageSrc": "history/infy.png"
+  },
+  {
+    "role": "Certification",
+    "organisation": "External",
+    "startDate": "feb, 2024",
+    "endDate": "feb, 2027",
+    "experiences": ["Google Cloud Professional Cloud Developer", "Google Cloud Associate Cloud Engineer"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Certification",
+    "organisation": "Internal",
+    "startDate": "Apr, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Certified Database and SQL professional",
+      "Certified Java SE* Developer",
+      "Certified Spring Boot Developer",
+      "Certified Service Now Administrator",
+      "Certified Javascript Developer"
+    ],
+    "imageSrc": "history/infy.png"
+  }
+]

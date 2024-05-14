@@ -1,0 +1,59 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "MYSQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Microservices",
+    "imageSrc": "skills/microservice.png"
+  },
+  {
+    "title": "Spring API",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Spring cloud",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Javascrpit",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "JDBC",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Spring Servlets",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Spring JPA",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "ServiceNow",
+    "imageSrc": "skills/servicenow.png"
+  }
+  
+]
